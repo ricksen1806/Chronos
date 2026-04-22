@@ -157,7 +157,12 @@ body{
     border-image-source: linear-gradient(to right, #131718, #131718, #a08665, #e4c18b, #a08665, #131718, #131718);
     border-top: 2px solid;
     border-image-slice: 1;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
 }
-.footer p{
-    margin: 0%;
+.footer h3{
+    color: whitesmoke;
 }
